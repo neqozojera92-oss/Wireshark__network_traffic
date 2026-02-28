@@ -1,4 +1,4 @@
-Wireshark lets you dive deep into your network traffic
+***Wireshark lets you dive deep into your network traffic***
 
 <img src="https://github.com/neqozojera92-oss/Wireshark__network_traffic/blob/main/1.png"/>
 
@@ -7,6 +7,8 @@ In today’s connected world, every click, message, stream, and transaction trav
 **What is Wireshark?**
 
 Wireshark is a powerful network protocol analyzer used by IT professionals, cybersecurity analysts, developers, and network engineers. It captures data packets traveling across a network and presents them in a detailed, human-readable format. Instead of seeing abstract traffic lights blinking on a router, you gain access to the actual conversations between devices.
+
+***DISCOVER WIRESHARK***
 
 With Wireshark, you can inspect hundreds of protocols—from common ones like HTTP, TCP, and DNS to more specialized or proprietary protocols. Each packet can be expanded layer by layer, allowing you to examine headers, payload data, flags, timestamps, and routing details. This granular visibility makes it an essential tool for diagnosing issues and understanding how systems communicate.
 
