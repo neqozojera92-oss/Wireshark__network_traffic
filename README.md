@@ -1,5 +1,7 @@
 Wireshark lets you dive deep into your network traffic
 
+<img src="https://github.com/neqozojera92-oss/Wireshark__network_traffic/blob/main/1.png"/>
+
 In today’s connected world, every click, message, stream, and transaction travels across complex networks in the form of data packets. Understanding what’s really happening inside those packets can feel like peering into a hidden digital ocean. Wireshark lets you dive deep into your network traffic, revealing the structure, flow, and behavior of communications in real time.
 
 **What is Wireshark?**
