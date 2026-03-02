@@ -18,8 +18,6 @@ Network protocol analyzers are indispensable tools for diagnosing network issues
 
 Wireshark boasts a rich set of features, including live packet capture from a network interface, powerful display filters for isolating specific traffic, and support for a wide range of network protocols. It supports several capture file formats, including pcap. The tool offers a GUI for interactive analysis and a command-line version called TShark for automated or remote analysis. With Wireshark, you can perform in-depth packet analysis, troubleshoot network issues, and analyze Wireshark packet captures with ease. You can download Wireshark to start your analysis.
 
-**Installing Wireshark**
- 
 ***System Requirements***
 
 Before you install Wireshark, it's essential to verify that your system meets the minimum requirements. Wireshark is a versatile network protocol analyzer that supports various operating systems, including Windows, macOS, and Linux. Ensure you have sufficient disk space for both the application and the Wireshark packet captures you intend to store. Also, consider the processing power and RAM, especially if you plan to analyze heavy network traffic or perform extensive packet analysis. Regularly check the Wireshark Foundation website or repository for the latest version of Wireshark and its specific system requirements to ensure optimal performance.
